@@ -1,0 +1,14 @@
+= Assistify
+
+Assistify is a group chat system with integrated artificial intelligence (AI).
+
+[TIP]
+====
+The overall project's documentation is still under heavy writing.
+You might want to check the components' documentation until we got things right.
+
+* https://github.com/assistify/Rocket.Chat/[Our custom fork of Rocket.Chat]
+* https://assistify.github.io/smarti/[Smarti] (NLP component) 
+
+Until then, feel free to link:https://github.com/assistify/assistify.github.io/issues/new[create an issue] to get in touch with us
+====
