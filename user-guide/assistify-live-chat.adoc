@@ -1,7 +1,7 @@
 == Live-Chat
 
-include::assistify-live-chats-actions.adoc[]
+include::assistify-live-chat-actions.adoc[Aktionen in einem offenen Livechat]
 
-include::assistify-answer-live-chats.adoc[]
+include::assistify-live-chat-answer.adoc[Live Chat Anfragen beantworten]
 
-include::assistify-live-chat-meta-data-history.adoc[]
+include::assistify-live-chat-meta-data-history.adoc[Metainformationen und bisherige Kundenanfragen im Live-Chat]

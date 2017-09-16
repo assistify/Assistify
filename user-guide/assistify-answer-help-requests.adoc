@@ -11,7 +11,9 @@ du, zu welchem Thema die Nachricht an dich gerichtet wurde. In der
 linken Spalte unter Anfragen ist die neue Anfrage sichtbar und fett
 markiert.
 
+====
 image:attachments/69766662/69766654.png[]
+====
 
 
 ==== Beantwortung von Anfragen
@@ -21,4 +23,6 @@ direkt antworten. Dies funktioniert analog zum Beantworten von allen
 Nachrichten in Assistify. Tippe dazu einfach deine Antwort ein und sende
 diese an deinen Kollegen.
 
+====
 image:attachments/69766662/69766661.png[]
+====

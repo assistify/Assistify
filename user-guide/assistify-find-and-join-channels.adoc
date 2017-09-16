@@ -2,7 +2,9 @@
 
 ==== Kanäle finden
 
+====
 image:attachments/64965343/64965284.png[] 
+====
 
 Kanälen, denen du beigetreten bist, werden in der linken Seitenleiste
 angezeigt. Um alle Kanäle deiner Community zu sehen, klicke auf "Mehr
@@ -12,8 +14,9 @@ Suche oben links den Kanalnamen ein.
 
 
 ==== Kanälen beitreten
-
+====
 image:attachments/64965343/64965283.png[]
+====
 
 Klicke auf den Kanal, den du suchst, und lass ihn dir so anzeigen.
 Klicke dann auf "Beitreten" am unteren Ende der Anzeige, um in den Kanal

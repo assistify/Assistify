@@ -16,18 +16,24 @@ Hier werden Verweise auf vergangene Konversationen angezeigt, die ggf.
 relevant sind für die Frage "Hi, kann mir jemand sagen wie ich einen
 Kanal erstellen kann?"
 
+====
 image:attachments/69770325/69770293.jpg[]
+====
 
 Dazu lassen sich die Nachrichten gefundener Konversationen zunächst
 anzeigen: 
 
+====
 image:attachments/69770325/69770486.png[]
+====
 
 Im Anschluss können entweder einzelne Nachrichten oder die gesamte
 Konversation im Chat gepostet werden. Dies geschieht über den Button mit
 dem Papierflieger: 
 
+====
 image:attachments/69770325/69770485.png[]
+====
 
 Ist die ursprüngliche Frage beantwortet worden, sollte die Konversation beendet werden
 (siehe <<assistify-help-request.adoc#, Anfragen stellen und Hilfe beantworten>>):
@@ -42,4 +48,6 @@ Scrollt man auf der rechten Bildansicht weiter nach unten, so werden
 Verweise auf Suchergebnisse der Search angezeigt, falls
 Suchergebnisse vorhanden sind.
 
+====
 image:attachments/69770325/69770294.jpg[]
+====

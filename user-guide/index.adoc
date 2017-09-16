@@ -19,14 +19,14 @@ IMPORTANT: @all if you find typos, missing sections or if you have any other kin
 Share your thoughts and open an issue right https://github.com/redlink-gmbh/smarti/issues[here].
 The *Assistify* community will help you along, as fast as possible.
 
-include::assistify-first-steps.adoc[]
+include::assistify-first-steps.adoc[Erste Schritte]
 
-include::assistify-messages-channels.adoc[]
+include::assistify-messages-channels.adoc[Nachrichten und Kanäle]
 
-include::assistify-notifications.adoc[]
+include::assistify-notifications.adoc[Benachrichtigungen]
 
-include::assistify-help-requests.adoc[]
+include::assistify-help-requests.adoc[Anfragen stellen und Hilfe beantworten]
 
-include::assistify-live-chat.adoc[]
+include::assistify-live-chat.adoc[Live-Chat]
 
-include::assistify-using-apps.adoc[]
+include::assistify-using-apps.adoc[Nutzung von Apps]

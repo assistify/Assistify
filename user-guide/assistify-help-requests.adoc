@@ -1,7 +1,7 @@
 == Anfragen stellen und Hilfe beantworten
 
-include::assistify-create-help-requests.adoc[]
+include::assistify-create-help-requests.adoc[Eine neue Anfrage erstellen]
 
-include::assistify-answer-help-requests.adoc[]
+include::assistify-answer-help-requests.adoc[Eine Anfrage beantworten]
 
-include::assistify-knowledge-base-usage.adoc[]
+include::assistify-knowledge-base-usage.adoc[Verwendung der Wissensbasis]

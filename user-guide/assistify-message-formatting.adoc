@@ -8,8 +8,9 @@ Vermittele deinen Standpunkt und drücke dich aus, indem Du Deine Nachrichten fo
 * _kursiv_ mit `\_Unterstrichen_`
 * [.line-through]#streichen# mit `\~Tilden~`
 
+====
 image:attachments/64964795/64964779.png[]
-
+====
 
 ==== Listen
 
@@ -17,16 +18,18 @@ Um eine Liste zu erstellen musst du zunächst SHIFT drücken und ENTER um
 neue Zeilen einzufügen. Gib für jede Zeile ein „-“, eine Zahl oder was
 auch immer ein und erstelle so deine individuell gestaltete Liste.
 
+====
 image:attachments/64964795/64964782.png[]
-
+====
 
 ==== Zitate/Einzug
 
 Um Zitate zu kennzeichnen oder Text einzurücken, füge einfach ein “>”
 vor deiner Nachricht ein.
 
+====
 image:attachments/64964795/64964781.png[]
-
+====
 
 ==== Code-Blöcke
 
@@ -34,7 +37,9 @@ Du kannst rückwärts geneigte Hochkommata ( ` - entspricht dem "accent
 grave" im Französischen) verwenden, um Code zu markieren. Dadurch wird
 Ihre Nachricht umgeben von einer grauen Box.
 
+====
 image:attachments/64964795/64964780.png[]
+====
 
 .  Ein rückwärts geneigte Hochkomma auf jeder Seite des Textes wird ein
 Inline-Kommentar erzeugen. +

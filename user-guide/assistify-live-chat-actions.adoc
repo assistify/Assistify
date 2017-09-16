@@ -1,27 +1,23 @@
 === Aktionen in einem offenen Livechat
 
-
-====
 Hat ein Livechat Agent einen Chat angenommen, kann er neben der
 Kommunikation mit dem Kunden weitere Aktionen durchführen:
 
+====
 image:attachments/68240620/68240623.png[]
-
 ====
 
 
 ==== Kundendaten bearbeiten
 
-Über einen Klick auf __Bearbeiten __kann man die Kundendaten bearbeiten
-und Metainfos zum Gesprächs hinterlegen (Thema und Tags). 
+Über einen Klick auf __Bearbeiten __kann man die Kundendaten bearbeiten und Metainfos zum Gesprächs hinterlegen (Thema und Tags). 
 
 
 ==== Konversation schließen
 
-Durch einen Klick auf _Schließen_ beendet man die aktuelle Konversation
-mit dem Kunden.
+Durch einen Klick auf _Schließen_ beendet man die aktuelle Konversation mit dem Kunden.
 
- 
+
 ==== Weiterleiten und Zurückgeben (Return)
 
 Über die Aktion _Weiterleiten_ kann ein Agent die aktuelle Konversation

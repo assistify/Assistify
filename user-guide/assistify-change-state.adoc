@@ -8,4 +8,6 @@ NOTE: Dein Status wird auf allen Geräten angezeigt, mit denen du
 eingeloggt bist. Hast du also den Status „Busy“ gewählt, so erhältst du
 auf keinem deiner Geräte Meldungen.
 
+====
 image:attachments/64964756/64964750.png[]
+====

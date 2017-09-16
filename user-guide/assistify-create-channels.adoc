@@ -1,4 +1,4 @@
-=== Kanal erstellen
+=== Kanäle erstellen
 
 Ein Kanal ist ein Chatraum, in dem man sich zu einem Thema austauschen
 kann. Man kann einen Kanal in zwei einfachen Schritten erstellen.
@@ -6,8 +6,9 @@ kann. Man kann einen Kanal in zwei einfachen Schritten erstellen.
 
 ==== Über Plus in der linken Seitenleiste in das "Kanal Erstellen" Menü wechseln
 
+====
 image:attachments/66474460/68245215.png[]
-
+====
 
 ==== Einen neuen Kanal erstellen
 
@@ -20,4 +21,6 @@ in den Kanal einladen. Hierfür muss man in das Feld "Benutzer auswählen"
 die Benutzernamen eingeben. Eine Autovervollständigung unterstützt bei
 diesem Schritt. 
 
+====
 image:attachments/66474460/68245217.png[]
+====

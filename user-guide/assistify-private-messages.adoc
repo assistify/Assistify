@@ -8,8 +8,9 @@ einfach in eine private Nachricht.
 
 
 ==== Öffnen existierender Direktnachrichten
-
+====
 image:attachments/64964843/64964833.png[]
+====
 
 Deine offenen privaten Nachrichten werden links in der Seitenleiste
 aufgelistet. Wenn du eine davon ausblenden willst, navigiere deine Maus
@@ -17,8 +18,9 @@ aufgelistet. Wenn du eine davon ausblenden willst, navigiere deine Maus
 
 
 ==== Verfassen einer neuen privaten Nachricht
-
+====
 image:attachments/64964843/64964834.png[]
+====
 
 Keine Sorge, durch das Ausblenden einer Konversation wird diese nicht
 gelöscht. Wenn du erst auf das Profil des Benutzers klickst, siehst du
@@ -28,8 +30,9 @@ hinzugefügt.
 
 
 ==== Schreiben von privaten Nachrichten
-
+====
 image:attachments/64964843/64964832.png[]
+====
 
 Bist du erst einmal in einer Konversation einer Privatnachricht, wirst
 du feststellen, dass das Interface genauso aussieht wie an anderen

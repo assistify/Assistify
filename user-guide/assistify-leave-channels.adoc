@@ -1,6 +1,7 @@
 === Verlassen und Ausblenden eines Kanals
-
+====
 image:attachments/64964859/64964855.png[]
+====
 
 In allen Kanälen und privaten Gruppen, die in der linken Seitenleiste
 angezeigt werden, siehst du zwei Icons, wenn du deinen Mauszeiger
@@ -8,8 +9,9 @@ darüber navigierst: Ein durchgestrichenes Auge und einen Pfeil.
 
 
 ==== Ausblenden eines Kanals
-
+====
 image:attachments/64964859/64964856.png[]
+====
 
 Wenn du Mitglied eines Raums oder einer privaten Gruppe bleiben willst
 aber du diese nicht in der linken Seitenleiste angezeigt sehen willst,
@@ -17,8 +19,9 @@ dann klicke auf das durchgestrichene Auge.
 
 
 ==== Verlassen eines Kanals
-
+====
 image:attachments/64964859/64964854.png[]
+====
 
 Wenn du einen Raum oder eine private Gruppe verlassen willst, kannst du
 diese verlassen. Dazu klicke einfach auf das Symbol mit dem Pfeil. Du

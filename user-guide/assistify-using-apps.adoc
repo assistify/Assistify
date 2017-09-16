@@ -42,7 +42,7 @@ NOTE: Benutzername und Kennwort sind dieselben wie in der Web-Version von Assist
 . Verwende Assistify wie sonst auch!
 
 
-=== Bekannte Probleme mit mobilen Apps
+=== Bekannte Probleme
 
 CAUTION: Momentan kann es zu Problemen mit den mobilen Apps kommen.
 In Einzelfällen wird das Chatfenster nicht geladen. Man sieht nur die Ladeanimation (Drei Punkte). In diesem Fall muss man die App neu installieren.

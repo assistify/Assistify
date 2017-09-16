@@ -1,4 +1,4 @@
-=== Kanäle, Anfragen, Themen (Expertisen) und Direktnachrichten
+=== Kanäle, Anfragen, Themen und Direktnachrichten
 
 ==== Gruppen-Chat in Kanälen
 
@@ -13,15 +13,19 @@ explizit eingeladen werden müssen.
 
 
 ==== Gruppen-Chat in öffentlichen Kanälen (Public Channels)
+====
 image:attachments/64963722/64965196.png[]
- 
+====
+
 Dies sind Chat-Gruppen mit offenem Zugang. Du musst nicht eingeladen
 werden, um diesem Kanal beizutreten. Du kannst Kanälen beitreten, in dem
 du auf "Mehr Kanäle.." klickst und einen Kanal auswählst. 
 
 
 ==== Gruppen-Chat in privaten Kanälen (Closed Channels)
+====
 image:attachments/64963722/64965197.png[]
+====
 
 Privaten Gruppen können mehrere Leute beitreten. Sie müssen dazu aber
 von anderen eingeladen werden. Die Gruppen werden nur angezeigt, wenn Du
@@ -29,7 +33,9 @@ Mitglied dieser Gruppe bist. 
 
 
 ==== Themen / Expertisen 
+====
 image:attachments/64963722/64965380.png[]
+====
 
 Expertisen können je nach Thema angelegt werden und entsprechende
 Benutzer, die sich fachlich mit dem Thema gut auskennen, zugeordnet
@@ -38,7 +44,9 @@ Expertise austauschen.
 
 
 ==== Anfragen 
+====
 image:attachments/64963722/64965199.png[]
+====
 
 Anfragen sind spezielle Kanäle, die zum Zweck der Beantwortung einer
 Frage eröffnet werden können. In der linken Seitenleiste kannst Du über
@@ -49,7 +57,9 @@ künstliche Intelligenz von Assistify.
 
 
 ==== Private Nachrichten (Private Chat)
+====
 image:attachments/64963722/64965198.png[]
+====
 
 Private Nachrichten sind private Konversationen zwischen dir und einem
 anderen Benutzer. Du kannst jedem Benutzer eine Privatnachricht

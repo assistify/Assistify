@@ -5,8 +5,9 @@ mobilen App erhalten.
 
 
 ==== Desktop-Benachrichtigungen
-
+====
 image:attachments/64964936/64964895.png[]
+====
 
 Unter „Mein Account“ kannst du testen, ob die Desktop-Benachrichtigungen
 auf deinem Computer funktionieren. Wenn sie aktiviert sind, tauchen sie
@@ -19,10 +20,12 @@ paar Sekunden.
 
 
 ==== Benachrichtigungstöne
-
+====
 image:attachments/64964936/64964907.png[]
-
+====
+====
 image:attachments/64964936/64964915.png[]
+====
 
 Du kannst wählen, welchen Ton du bei einer neuen Benachrichtigung von
 Assistify hören willst. Schaue unter unter „Audio“ nach im
@@ -44,8 +47,9 @@ Diese Hinweise lassen dich...
 
 
 ==== Benachrichtigungen für einzelne Kanäle und Benutzer
-
+====
 image:attachments/64964936/64964934.png[]
+====
 
 Benachrichtigungs-Einstellungen können für einzelne Räume, Gruppen oder
 Benutzer gesetzt werden. Sie können also wählen, wann Sie
