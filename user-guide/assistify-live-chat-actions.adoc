@@ -4,7 +4,7 @@ Hat ein Livechat Agent einen Chat angenommen, kann er neben der
 Kommunikation mit dem Kunden weitere Aktionen durchführen:
 
 ====
-image:attachments/68240620/68240623.png[]
+image:images/68240620/68240623.png[]
 ====
 
 

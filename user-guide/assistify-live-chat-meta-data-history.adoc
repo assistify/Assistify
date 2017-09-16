@@ -10,7 +10,7 @@ seine E-Mail Adresse ist, mit welchem Browserer unterwegs ist und welche Seiten
 er auf der Webseite, auf der sich der Livechat befindet, er besucht hat. 
 
 ====
-image:attachments/68240618/68240614.png[]
+image:images/68240618/68240614.png[]
 ====
 
 Darüber hinaus kann man hier weitere Aktionen tätigen.
@@ -26,5 +26,5 @@ Gespräche mit dem Kunden. Mit einem Klick auf ein Gespräch kann man den
 Verlauf einsehen.
 
 ====
-image:attachments/68240618/68240615.png[]
+image:images/68240618/68240615.png[]
 ====

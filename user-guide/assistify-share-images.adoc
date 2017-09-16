@@ -11,17 +11,17 @@ einfach.
 Einfach ein Bild aus dem Datei-Browser (bspw. Windows-Explorer) oder vom
 Desktop anklicken und in das Chat-Fenster ziehen. 
 ====
-image:attachments/64963495/64963479.png[]
+image:images/64963495/64963479.png[]
 ====
 
 ==== Zusatzinformationen eingeben
 ====
-image:attachments/64963495/64963490.png[]
+image:images/64963495/64963490.png[]
 ====
 
 ==== Fertig
 
 Deine Kollegen können nun das Bild direkt im Kanal sehen.
 ====
-image:attachments/64963495/64963494.png[]
+image:images/64963495/64963494.png[]
 ====

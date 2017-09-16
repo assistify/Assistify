@@ -3,7 +3,7 @@
 ==== Kanäle finden
 
 ====
-image:attachments/64965343/64965284.png[] 
+image:images/64965343/64965284.png[] 
 ====
 
 Kanälen, denen du beigetreten bist, werden in der linken Seitenleiste
@@ -15,7 +15,7 @@ Suche oben links den Kanalnamen ein.
 
 ==== Kanälen beitreten
 ====
-image:attachments/64965343/64965283.png[]
+image:images/64965343/64965283.png[]
 ====
 
 Klicke auf den Kanal, den du suchst, und lass ihn dir so anzeigen.

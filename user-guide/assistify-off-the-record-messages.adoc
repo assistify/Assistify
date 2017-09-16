@@ -9,7 +9,7 @@ Du kannst deine Direktnachrichten absichern, indem Du Off-the-record
 Schlüssel-Symbol in der rechten Navigationsleiste.
 
 [TIP]
-image:attachments/68231861/68231846.png[]
+image:images/68231861/68231846.png[]
 
 NOTE: Wenn Du dich in einem OTR-Chat befindest, dann haben die Nachrichten ein
 Schlüsselsymbol und werden verschlüsselt versendet. Nachdem die OTR
@@ -28,6 +28,6 @@ verschlüsselten Konversation teilnehmen muss.
 
 Die OTR-Konversation funktioniert derzeit nicht im Internet Explorer.
 [CAUTION]
-image:attachments/68231861/68231847.png[]
+image:images/68231861/68231847.png[]
 
 ====

@@ -9,7 +9,7 @@ Vermittele deinen Standpunkt und drücke dich aus, indem Du Deine Nachrichten fo
 * [.line-through]#streichen# mit `\~Tilden~`
 
 ====
-image:attachments/64964795/64964779.png[]
+image:images/64964795/64964779.png[]
 ====
 
 ==== Listen
@@ -19,7 +19,7 @@ neue Zeilen einzufügen. Gib für jede Zeile ein „-“, eine Zahl oder was
 auch immer ein und erstelle so deine individuell gestaltete Liste.
 
 ====
-image:attachments/64964795/64964782.png[]
+image:images/64964795/64964782.png[]
 ====
 
 ==== Zitate/Einzug
@@ -28,7 +28,7 @@ Um Zitate zu kennzeichnen oder Text einzurücken, füge einfach ein “>”
 vor deiner Nachricht ein.
 
 ====
-image:attachments/64964795/64964781.png[]
+image:images/64964795/64964781.png[]
 ====
 
 ==== Code-Blöcke
@@ -38,7 +38,7 @@ grave" im Französischen) verwenden, um Code zu markieren. Dadurch wird
 Ihre Nachricht umgeben von einer grauen Box.
 
 ====
-image:attachments/64964795/64964780.png[]
+image:images/64964795/64964780.png[]
 ====
 
 .  Ein rückwärts geneigte Hochkomma auf jeder Seite des Textes wird ein

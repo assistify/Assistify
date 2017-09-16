@@ -8,18 +8,18 @@ an deine Kollegen weitergeleitet wird.
 ==== Wähle das Plus "+" in der Seitenleiste 
 
 ====
-image:attachments/64957279/64963099.png[]
+image:images/64957279/64963099.png[]
 ====
 
 ==== Wähle die passende Kategorie aus
 ====
-image:attachments/64957279/64963061.png[]
+image:images/64957279/64963061.png[]
 ====
 
 
 ==== Verfasse deine Frage
 ====
-image:attachments/64957279/64957278.png[]
+image:images/64957279/64957278.png[]
 ====
 
 Deine Frage wird nun an deine Kollegen weitergeleitet. Bei einer Antwort
@@ -28,7 +28,7 @@ wirst du direkt über den Browser oder via E-Mail benachrichtigt.
 
 ==== Trainiere die KI
 ====
-image:attachments/64957279/64963102.png[]
+image:images/64957279/64963102.png[]
 ====
 
 Wenn deine Anfrage beantwortet wurde, beende bitte den Chat,

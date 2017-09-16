@@ -6,7 +6,7 @@ mobilen App erhalten.
 
 ==== Desktop-Benachrichtigungen
 ====
-image:attachments/64964936/64964895.png[]
+image:images/64964936/64964895.png[]
 ====
 
 Unter „Mein Account“ kannst du testen, ob die Desktop-Benachrichtigungen
@@ -21,10 +21,10 @@ paar Sekunden.
 
 ==== Benachrichtigungstöne
 ====
-image:attachments/64964936/64964907.png[]
+image:images/64964936/64964907.png[]
 ====
 ====
-image:attachments/64964936/64964915.png[]
+image:images/64964936/64964915.png[]
 ====
 
 Du kannst wählen, welchen Ton du bei einer neuen Benachrichtigung von
@@ -48,7 +48,7 @@ Diese Hinweise lassen dich...
 
 ==== Benachrichtigungen für einzelne Kanäle und Benutzer
 ====
-image:attachments/64964936/64964934.png[]
+image:images/64964936/64964934.png[]
 ====
 
 Benachrichtigungs-Einstellungen können für einzelne Räume, Gruppen oder

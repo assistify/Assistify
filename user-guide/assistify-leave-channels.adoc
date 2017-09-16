@@ -1,6 +1,6 @@
 === Verlassen und Ausblenden eines Kanals
 ====
-image:attachments/64964859/64964855.png[]
+image:images/64964859/64964855.png[]
 ====
 
 In allen Kanälen und privaten Gruppen, die in der linken Seitenleiste
@@ -10,7 +10,7 @@ darüber navigierst: Ein durchgestrichenes Auge und einen Pfeil.
 
 ==== Ausblenden eines Kanals
 ====
-image:attachments/64964859/64964856.png[]
+image:images/64964859/64964856.png[]
 ====
 
 Wenn du Mitglied eines Raums oder einer privaten Gruppe bleiben willst
@@ -20,7 +20,7 @@ dann klicke auf das durchgestrichene Auge.
 
 ==== Verlassen eines Kanals
 ====
-image:attachments/64964859/64964854.png[]
+image:images/64964859/64964854.png[]
 ====
 
 Wenn du einen Raum oder eine private Gruppe verlassen willst, kannst du

@@ -9,5 +9,5 @@ eingeloggt bist. Hast du also den Status „Busy“ gewählt, so erhältst du
 auf keinem deiner Geräte Meldungen.
 
 ====
-image:attachments/64964756/64964750.png[]
+image:images/64964756/64964750.png[]
 ====

@@ -3,17 +3,17 @@
 ==== Auf der Startseite von Assistify den Link "Neues Konto registrieren" klicken
 
 ====
-image:attachments/64963659/64963656.png[]
+image:images/64963659/64963656.png[]
 ====
 
 ==== Formular ausfüllen und absenden
 ====
-image:attachments/64963659/64963657.png[]
+image:images/64963659/64963657.png[]
 ====
 
 ==== Information zur Bestätigung
 ====
-image:attachments/64963659/64963658.png[]
+image:images/64963659/64963658.png[]
 ====
 
 [TIP]

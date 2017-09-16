@@ -25,22 +25,22 @@ einfach an info@assistify.de
 
 ==== Anmeldeformular (vorhandener / aktiver Benutzer)
 ====
-image:attachments/64964029/64964041.png[]
+image:images/64964029/64964041.png[]
 ====
 
 ==== Erstanmeldung nach Selbstregistrierung
 ====
-image:attachments/64964029/64964028.png[]
+image:images/64964029/64964028.png[]
 ====
 
 ==== Erstanmeldung nach Einladung durch Administrator
 ====
-image:attachments/64964029/64964034.png[]
+image:images/64964029/64964034.png[]
 ====
 
 ==== Gesperrtes, gelöschtes oder nicht vorhandenes Benutzerkonto
 ====
-image:attachments/64964029/64964070.png[]
+image:images/64964029/64964070.png[]
 ====
 
 [TIP]

@@ -12,7 +12,7 @@ linken Spalte unter Anfragen ist die neue Anfrage sichtbar und fett
 markiert.
 
 ====
-image:attachments/69766662/69766654.png[]
+image:images/69766662/69766654.png[]
 ====
 
 
@@ -24,5 +24,5 @@ Nachrichten in Assistify. Tippe dazu einfach deine Antwort ein und sende
 diese an deinen Kollegen.
 
 ====
-image:attachments/69766662/69766661.png[]
+image:images/69766662/69766661.png[]
 ====

@@ -3,5 +3,5 @@
 Anbei findest Du eine Übersicht der Benutzeroberfläche von Assistify.
 
 ====
-image:attachments/64963413/64963409.png[]
+image:images/64963413/64963409.png[]
 ====

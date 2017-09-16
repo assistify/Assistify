@@ -10,11 +10,11 @@ Anschließend kann der Nutzer sich als Agent anmelden.
 Dies geschieht, in dem der Nutzer in der linken Spalte den Schalter unter Live Chat aktiviert.
 
 ====
-image:attachments/68240530/68240521.png[]
+image:images/68240530/68240521.png[]
 ====
 
 ====
-image:attachments/68240530/68240527.png[]
+image:images/68240530/68240527.png[]
 ====
 
 ==== Eine Anfrage geht ein und ein Agent nimmt diese an
@@ -22,18 +22,18 @@ Wenn eine neue Anfrage von einem Kunden eingeht, erscheint diese unter Eingehend
 Der Agent kann diese nun auswählen und wird gefragt, ob er sie annehmen möchte.
 
 ====
-image:attachments/68240530/68240544.png[]
+image:images/68240530/68240544.png[]
 ====
 
 ====
-image:attachments/68240530/68240570.png[]
+image:images/68240530/68240570.png[]
 ====
 
 Die angenommene Anfrage erscheint in der linken Spalte unter Offene Livechats.
 Nun ist es möglich wie in jedem anderen Kanal auch Nachrichten auszutauschen.
 
 ====
-image:attachments/68240530/68240573.png[]
+image:images/68240530/68240573.png[]
 ====
 
 ==== Anfrage abschließen
@@ -42,9 +42,9 @@ Hierfür muss in der rechten Seitenleiste einfach auf Chat beenden geklickt werd
 Im Folgenden Dialog kann optional noch ein Kommentar angegeben werden, bspw. für eine Kategorisierung der Anfrage.
 
 ====
-image:attachments/68240530/68240588.png[]
+image:images/68240530/68240588.png[]
 ====
 
 ====
-image:attachments/68240530/68240593.png[]
+image:images/68240530/68240593.png[]
 ====
