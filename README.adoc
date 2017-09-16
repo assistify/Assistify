@@ -4,8 +4,8 @@ Assistify is a group chat system with integrated artificial intelligence (AI).
 
 Currently there are two user guides available
 
-* <<user-guide/index.adoc#, Assistify User Guide>>
-* <<manager-guide/index.adoc#, Assistify Manager Guide>>
+* <<user-guide.adoc#, Assistify User Guide>>
+* <<manager-guide.adoc#, Assistify Manager Guide>>
 
 [TIP]
 ====
