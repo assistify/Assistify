@@ -1,0 +1,7 @@
+== Anfragen stellen und Hilfe beantworten
+
+include::assistify-create-help-requests.adoc[]
+
+include::assistify-answer-help-requests.adoc[]
+
+include::assistify-knowledge-base-usage.adoc[]

@@ -1,0 +1,50 @@
+== Nutzung mit Apps
+
+=== Download
+
+Assistify steht für mobile Endgeräte sowohl als Webanwendung über die
+https://${TEAM-NAME}.assistify-test.de/[URL] zur Verfügung,
+aber auch als Desktop-Anwendung für Windows, Mac und Linux. Du kannst
+Assistify auch über eine Android- oder iOS-App auf mobilen Geräten
+verwenden. Assistify basiert auf Rocketchat - deshalb musst du dir
+lediglich die jeweilige Rocketchat-Anwendung herunterladen und dich mit
+deinem Benutzernamen und Passwort anmelden.
+
+* Die Android App kannst Du hier herunterladen:
+https://play.google.com/store/apps/details?id=com.konecty.rocket.chat[Rocket.Chat
+für Android]
+* Die iOS App kannst Du hier herunterladen:
+https://itunes.apple.com/us/app/rocket-chat/id1028869439?mt=8[Rocket.Chat
+für iOS]
+* Downloads für Windows, Mac und Linux findest Du
+hier: https://rocket.chat/download
+
+IMPORTANT: Die Download-Links für mobile Geräte auf dieser Seite
+verweisen auf eine andere Version als benötigt. Bitte verwendet deshalb
+für mobile Geräte die oben angegebenen Links.
+
+
+=== Anmeldung
+
+Ob in der Webanwendung oder bei der Nutzung einer App: Befolge folgende
+Schritte, um Assistify zu verwenden.
+
+. Gib die Subdomäne deines Assistify-Zugangs an, diese lautet: +
++
+```
+https://${TEAM-NAME}.assistify-test.de/
+```
+
+. Gib deinen Benutzernamen und dein Kennwort ein
++
+NOTE: Benutzername und Kennwort sind dieselben wie in der Web-Version von Assistify
+
+. Verwende Assistify wie sonst auch!
+
+
+=== Bekannte Probleme mit mobilen Apps
+
+CAUTION: Momentan kann es zu Problemen mit den mobilen Apps kommen.
+In Einzelfällen wird das Chatfenster nicht geladen. Man sieht nur die Ladeanimation (Drei Punkte). In diesem Fall muss man die App neu installieren.
+
+TIP: Als Workaround empfehlen wir zurzeit auf einen mobilen Browser (bspw. Chrome, Safari) auszuweichen oder auf die Nutzung von Apps vorübergehend zu verzichten.

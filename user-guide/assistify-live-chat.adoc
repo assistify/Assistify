@@ -1,0 +1,7 @@
+== Live-Chat
+
+include::assistify-live-chats-actions.adoc[]
+
+include::assistify-answer-live-chats.adoc[]
+
+include::assistify-live-chat-meta-data-history.adoc[]

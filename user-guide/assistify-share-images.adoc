@@ -1,0 +1,27 @@
+=== Ein Bild teilen
+
+Hin und wieder ist es mal erforderlich, dass man mit Kollegen ein Bild
+teilt, um Fragen besser erklären zu können. Dies kann beispielsweise
+auch ein Screenshot sein. Das Teilen von Bildern geht mit Assistify ganz
+einfach.
+
+
+==== Bild in Chatfenster hineinziehen
+
+Einfach ein Bild aus dem Datei-Browser (bspw. Windows-Explorer) oder vom
+Desktop anklicken und in das Chat-Fenster ziehen. 
+====
+image:attachments/64963495/64963479.png[]
+====
+
+==== Zusatzinformationen eingeben
+====
+image:attachments/64963495/64963490.png[]
+====
+
+==== Fertig
+
+Deine Kollegen können nun das Bild direkt im Kanal sehen.
+====
+image:attachments/64963495/64963494.png[]
+====

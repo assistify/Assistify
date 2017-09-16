@@ -1,0 +1,19 @@
+== Nachrichten und Kanäle
+
+include::assistify-answer-on-single-messages.adoc[]
+
+include::assistify-share-images.adoc[]
+
+include::assistify-message-formatting.adoc[]
+
+include::assistify-find-and-join-channels.adoc[]
+
+include::assistify-channel-types.adoc[]
+
+include::assistify-create-channels.adoc[]
+
+include::assistify-private-messages.adoc[]
+
+include::assistify-leave-channels.adoc[]
+
+include::assistify-off-the-record-messages.adoc[]

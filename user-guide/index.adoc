@@ -1,0 +1,32 @@
+= Assistify User Guide
+Assistify <info@assistify.de>
+v1.0, 2017-08-26
+:toc: left
+
+[abstract]
+Assistify is a software as a service to empower people for effective communication.
+
+This document is written for users, experts and managers that are affected and want to
+
+* use Assistify,
+* manage an Assistify team or
+* help to make Assistify a better product.
+
+All interested can convince themselves of the documentation quality.
+And if you caught fire, maybe you will order Assistify very soon ;-)
+
+IMPORTANT: @all if you find typos, missing sections or if you have any other kind of helpful advice to improve this documentation or *Assistify* in general, please let us know.
+Share your thoughts and open an issue right https://github.com/redlink-gmbh/smarti/issues[here].
+The *Assistify* community will help you along, as fast as possible.
+
+include::assistify-first-steps.adoc[]
+
+include::assistify-messages-channels.adoc[]
+
+include::assistify-notifications.adoc[]
+
+include::assistify-help-requests.adoc[]
+
+include::assistify-live-chat.adoc[]
+
+include::assistify-using-apps.adoc[]
