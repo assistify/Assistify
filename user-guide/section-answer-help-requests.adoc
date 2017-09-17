@@ -12,7 +12,7 @@ linken Spalte unter Anfragen ist die neue Anfrage sichtbar und fett
 markiert.
 
 ====
-image::69766654.png[Request,200,role="left"]
+image::69766654.png[Request,200]
 ====
 
 
