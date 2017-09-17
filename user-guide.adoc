@@ -21,7 +21,7 @@ endif::[]
 :table-caption!:
 :example-caption!:
 :figure-caption!:
-:imagesdir: _images
+:imagesdir: images
 
 [abstract]
 Assistify is a software as a service to empower people for effective communication.
