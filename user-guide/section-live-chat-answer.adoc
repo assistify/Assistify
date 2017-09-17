@@ -33,7 +33,7 @@ Die angenommene Anfrage erscheint in der linken Spalte unter Offene Livechats.
 Nun ist es möglich wie in jedem anderen Kanal auch Nachrichten auszutauschen.
 
 ====
-image::68240573.png[]
+image::68240573.png[Take,860,role="text-center"]
 ====
 
 ==== Anfrage abschließen
@@ -42,9 +42,9 @@ Hierfür muss in der rechten Seitenleiste einfach auf Chat beenden geklickt werd
 Im Folgenden Dialog kann optional noch ein Kommentar angegeben werden, bspw. für eine Kategorisierung der Anfrage.
 
 ====
-image::68240588.png[Close,860,role="text-center"]
+image::68240588.png[Close1,860,role="text-center"]
 ====
 
 ====
-image::68240593.png[Close,860,role="text-center"]
+image::68240593.png[Close2,860,role="text-center"]
 ====
