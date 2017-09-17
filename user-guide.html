@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 1.5.6.1">
+<meta name="description" content="Dieser guide beschreibt, wie Assistify zu benutzen ist. Von den ersten Schritten über das Stellen von Anfragen an Experten und deren Beantwortung.">
+<meta name="keywords" content="Assitify, user guide, communication, chat, live chat, service desk, assistance, artificial intelligence, natural language processing, bot, automation">
+<meta name="author" content="Assistify">
+<title>Assistify User Guide</title>
+<style>
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
@@ -8168,3 +8180,1604 @@ span.icon > .fa {
 .conum:not([data-value]):empty {
   display: none;
 }
+
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+</head>
+<body class="book toc2 toc-left">
+<div id="header">
+<h1>Assistify User Guide</h1>
+<div class="details">
+<span id="author" class="author">Assistify</span><br>
+<span id="email" class="email"><a href="mailto:info@assistify.de">info@assistify.de</a></span><br>
+</div>
+<div id="toc" class="toc2">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#erste-schritte">Erste Schritte</a>
+<ul class="sectlevel2">
+<li><a href="#registriere-deinen-benutzer">Registriere Deinen Benutzer</a></li>
+<li><a href="#melde-dich-an-assistify-an">Melde Dich an Assistify an</a></li>
+<li><a href="#verschaffe-dir-einen-Überblick">Verschaffe Dir einen Überblick</a></li>
+<li><a href="#lasse-andere-wissen-ob-du-verfügbar-bist">Lasse andere wissen, ob Du verfügbar bist</a></li>
+<li><a href="#Ändere-deinen-benutzernamen-oder-dein-passwort">Ändere Deinen Benutzernamen oder Dein Passwort</a></li>
+<li><a href="#du-hast-dein-passwort-vergessen-kann-passieren">Du hast Dein Passwort vergessen? Kann passieren &#8230;&#8203;</a></li>
+</ul>
+</li>
+<li><a href="#nachrichten-und-kanäle">Nachrichten und Kanäle</a>
+<ul class="sectlevel2">
+<li><a href="#auf-einzelne-nachrichten-antworten">Auf einzelne Nachrichten antworten</a></li>
+<li><a href="#ein-bild-teilen">Ein Bild teilen</a></li>
+<li><a href="#formatieren-von-nachrichten">Formatieren von Nachrichten</a></li>
+<li><a href="#finden-und-betreten-von-kanälen">Finden und Betreten von Kanälen</a></li>
+<li><a href="#kanäle-anfragen-themen-und-direktnachrichten">Kanäle, Anfragen, Themen und Direktnachrichten</a></li>
+<li><a href="#kanäle-erstellen">Kanäle erstellen</a></li>
+<li><a href="#private-nachrichten">Private Nachrichten</a></li>
+<li><a href="#verlassen-und-ausblenden-eines-kanals">Verlassen und Ausblenden eines Kanals</a></li>
+<li><a href="#off-the-record-gespräche">Off-the-record Gespräche</a></li>
+<li><a href="#benachrichtigungen">Benachrichtigungen</a></li>
+</ul>
+</li>
+<li><a href="#anfragen-stellen-und-hilfe-beantworten">Anfragen stellen und Hilfe beantworten</a>
+<ul class="sectlevel2">
+<li><a href="#eine-neue-anfrage-erstellen">Eine neue Anfrage erstellen</a></li>
+<li><a href="#eine-anfrage-beantworten">Eine Anfrage beantworten</a></li>
+<li><a href="#verwendung-der-wissensbasis">Verwendung der Wissensbasis</a></li>
+</ul>
+</li>
+<li><a href="#live-chat">Live-Chat</a>
+<ul class="sectlevel2">
+<li><a href="#aktionen-in-einem-offenen-livechat">Aktionen in einem offenen Livechat</a></li>
+<li><a href="#live-chat-anfragen-beantworten">Live Chat Anfragen beantworten</a></li>
+<li><a href="#metainformationen-und-bisherige-kundenanfragen-im-live-chat">Metainformationen und bisherige Kundenanfragen im Live-Chat</a></li>
+</ul>
+</li>
+<li><a href="#nutzung-mit-apps">Nutzung mit Apps</a>
+<ul class="sectlevel2">
+<li><a href="#download">Download</a></li>
+<li><a href="#anmeldung">Anmeldung</a></li>
+<li><a href="#bekannte-probleme">Bekannte Probleme</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="quoteblock abstract">
+<blockquote>
+Assistify is a software as a service to empower people for effective communication.
+</blockquote>
+</div>
+<div class="paragraph">
+<p>This document is written for users, experts and managers that are affected and want to</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>use Assistify,</p>
+</li>
+<li>
+<p>manage an Assistify team or</p>
+</li>
+<li>
+<p>help to make Assistify a better product.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>All interested can convince themselves of the documentation quality.
+And if you caught fire, maybe you will order Assistify very soon ;-)</p>
+</div>
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+@all if you find typos, missing sections or if you have any other kind of helpful advice to improve this documentation or <strong>Assistify</strong> in general, please let us know.
+Share your thoughts and open an issue right <a href="https://github.com/redlink-gmbh/smarti/issues">here</a>.
+The <strong>Assistify</strong> community will help you along, as fast as possible.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="erste-schritte"><a class="anchor" href="#erste-schritte"></a>Erste Schritte</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="registriere-deinen-benutzer"><a class="anchor" href="#registriere-deinen-benutzer"></a>Registriere Deinen Benutzer</h3>
+<div class="sect3">
+<h4 id="auf-der-startseite-von-assistify-den-link-neues-konto-registrieren-klicken"><a class="anchor" href="#auf-der-startseite-von-assistify-den-link-neues-konto-registrieren-klicken"></a>Auf der Startseite von Assistify den Link "Neues Konto registrieren" klicken</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64963656.png" alt="Register" width="400">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="formular-ausfüllen-und-absenden"><a class="anchor" href="#formular-ausfüllen-und-absenden"></a>Formular ausfüllen und absenden</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64963657.png" alt="Form" width="400">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="information-zur-bestätigung"><a class="anchor" href="#information-zur-bestätigung"></a>Information zur Bestätigung</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64963658.png" alt="Confirm" width="400">
+</div>
+</div>
+</div>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p><strong>Keine automatischen Benachrichtigungen</strong></p>
+</div>
+<div class="paragraph">
+<p>Derzeit versendet das System keine automatische Nachricht an den
+fachlichen Administrator, wenn sich ein neuer Benutzer registriert.</p>
+</div>
+<div class="paragraph">
+<p>Wir empfehlen daher nach der Registrierung direkt auf den
+Fachadministrator zuzugehen und ihn um Aktivierung des Benutzers zu
+bitten.</p>
+</div>
+<div class="paragraph">
+<p>Siehe dazu auch
+<a href="Benutzer-aktivieren_64963739.html">Benutzeraktivieren</a>.
+Hier wird erklärt, was der Fachadministrator tun muss, um ein Benutzerkonto zu aktivieren.</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="melde-dich-an-assistify-an"><a class="anchor" href="#melde-dich-an-assistify-an"></a>Melde Dich an Assistify an</h3>
+<div class="paragraph">
+<p>In diesem Abschnitt wird beschrieben, wie Sie sich an Assistify
+anmelden. Je nach dem, ob Sie bereits ein Benutzerkonto haben, dieses
+per Selbstregistrierung angelegt wurde oder von einem Administrator,
+werden Sie aufgefordert Ihren Benutzernamen festzulegen bzw. Ihr
+Passwort zu vergeben.</p>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p><strong>Startseite / Anmeldeseite</strong></p>
+</div>
+<div class="paragraph">
+<p>Begeben Sie sich auf die Startseite (URL) von Assistify.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Sollte Ihnen die Startseite (URL) nicht bekannt sein, erfragen Sie
+diese bei Ihrem Fachdienst bzw. bei ihrem fachlichen Administrator.</p>
+</li>
+<li>
+<p>Sollten Sie kein Benutzerkonto haben, können Sie sich einfach selbst
+registrieren. Lesen Sie hierzu das Kapitel
+<a href="assistify-self-registration.html">Selbstregistrierung</a></p>
+</li>
+<li>
+<p>Sollte Ihr Bereich keinen Account bei Assistify haben sprechen Sie uns
+einfach an <a href="mailto:info@assistify.de">info@assistify.de</a></p>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="sect3">
+<h4 id="anmeldeformular-vorhandener-aktiver-benutzer"><a class="anchor" href="#anmeldeformular-vorhandener-aktiver-benutzer"></a>Anmeldeformular (vorhandener / aktiver Benutzer)</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964041.png" alt="SignIn" width="400">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="erstanmeldung-nach-selbstregistrierung"><a class="anchor" href="#erstanmeldung-nach-selbstregistrierung"></a>Erstanmeldung nach Selbstregistrierung</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964028.png" alt="Username" width="400">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="erstanmeldung-nach-einladung-durch-administrator"><a class="anchor" href="#erstanmeldung-nach-einladung-durch-administrator"></a>Erstanmeldung nach Einladung durch Administrator</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964034.png" alt="Invitation" width="400">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="gesperrtes-gelöschtes-oder-nicht-vorhandenes-benutzerkonto"><a class="anchor" href="#gesperrtes-gelöschtes-oder-nicht-vorhandenes-benutzerkonto"></a>Gesperrtes, gelöschtes oder nicht vorhandenes Benutzerkonto</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964070.png" alt="Locked" width="400">
+</div>
+</div>
+</div>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p><strong>Noch nicht aktiviert?</strong></p>
+</div>
+<div class="paragraph">
+<p>Wenn Sie sich sicher sind, dass Sie ihren Benutzernamen und das Passwort
+richtig eingegeben haben und fester Überzeugung sind, dass Sie ein
+Benutzerkonto besitzen, aber sich dennoch nicht anmelden können, wenden
+Sie sich bitte an Ihren fachlichen Administrator. Sollte Ihnen der Name
+dieser Person nicht bekannt sein, wenden Sie sich gerne auch direkt an
+das Assistify Team unter <a href="mailto:info@assistify.de">info@assistify.de</a> - Wir helfen gerne weiter!</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="verschaffe-dir-einen-Überblick"><a class="anchor" href="#verschaffe-dir-einen-Überblick"></a>Verschaffe Dir einen Überblick</h3>
+<div class="paragraph">
+<p>Anbei findest Du eine Übersicht der Benutzeroberfläche von Assistify.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64963409.png" alt="Overview" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="lasse-andere-wissen-ob-du-verfügbar-bist"><a class="anchor" href="#lasse-andere-wissen-ob-du-verfügbar-bist"></a>Lasse andere wissen, ob Du verfügbar bist</h3>
+<div class="paragraph">
+<p>Um andere Benutzer wissen zu lassen, ob du zum Chatten erreichbar bist,
+wähle oben links eine Statusoption (Online, Away, Busy) aus. Dazu klicke
+zunächst auf deinen Namen oder Avatar und wähle dann einen Status aus.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+Dein Status wird auf allen Geräten angezeigt, mit denen du
+eingeloggt bist. Hast du also den Status „Busy“ gewählt, so erhältst du
+auf keinem deiner Geräte Meldungen.
+</td>
+</tr>
+</table>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964750.png" alt="Status" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="Ändere-deinen-benutzernamen-oder-dein-passwort"><a class="anchor" href="#Ändere-deinen-benutzernamen-oder-dein-passwort"></a>Ändere Deinen Benutzernamen oder Dein Passwort</h3>
+<div class="paragraph">
+<p>Ändere Dein Benutzername bzw. Dei Passwort einfach, indem Du die folgenden Schritte ausführst:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Melde Dich mit Deinem Benutzer an Deinem Assistify-Account an</p>
+</li>
+<li>
+<p>Klicke auf „Mein Konto“</p>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964723.png" alt="Account" width="820">
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<p>Wähle „Profil“</p>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964732.png" alt="Profile" width="820">
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<p>Gib Deinen neuen Benutzernamen / Passwort in das entsprechende Feld ein und klicke auf „Änderungen übernehmen“</p>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964733.png" alt="Password" width="820">
+</div>
+</div>
+</div>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect2">
+<h3 id="du-hast-dein-passwort-vergessen-kann-passieren"><a class="anchor" href="#du-hast-dein-passwort-vergessen-kann-passieren"></a>Du hast Dein Passwort vergessen? Kann passieren &#8230;&#8203;</h3>
+<div class="paragraph">
+<p>Du hast dein Passwort vergessen? Kein Problem, befolge bloß folgende Schritte:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Begib dich auf deine Login-Seite <code><a href="https://${TEAM-NAME}.assistify-test.de" class="bare">https://${TEAM-NAME}.assistify-test.de</a></code></p>
+</li>
+<li>
+<p>Klicke auf den „Passwort vergessen“-Link</p>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964678.png" alt="Reset" width="420">
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<p>Gib deine E-Mail-Adresse ein und klicke auf “Passwort zurücksetzen”</p>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964679.png" alt="Mail" width="420">
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<p>Du erhältst kurz darauf eine E-Mail mit einem Link, über den du dein Passwort zurücksetzen kannst.</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="nachrichten-und-kanäle"><a class="anchor" href="#nachrichten-und-kanäle"></a>Nachrichten und Kanäle</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="auf-einzelne-nachrichten-antworten"><a class="anchor" href="#auf-einzelne-nachrichten-antworten"></a>Auf einzelne Nachrichten antworten</h3>
+<div class="paragraph">
+<p>Auf Nachrichten in Kanälen oder privaten Konversationen kannst du direkt
+antworten. Klicke dazu über einer Nachricht auf das "Zahnrad"-Symbol und
+wähle dann den Pfeil ganz links in der Auswahlleiste.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964968.png" alt="Context" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964967.png" alt="Reply" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="ein-bild-teilen"><a class="anchor" href="#ein-bild-teilen"></a>Ein Bild teilen</h3>
+<div class="paragraph">
+<p>Hin und wieder ist es mal erforderlich, dass man mit Kollegen ein Bild
+teilt, um Fragen besser erklären zu können. Dies kann beispielsweise
+auch ein Screenshot sein. Das Teilen von Bildern geht mit Assistify ganz
+einfach.</p>
+</div>
+<div class="sect3">
+<h4 id="bild-in-chatfenster-hineinziehen"><a class="anchor" href="#bild-in-chatfenster-hineinziehen"></a>Bild in Chatfenster hineinziehen</h4>
+<div class="paragraph">
+<p>Einfach ein Bild aus dem Datei-Browser (bspw. Windows-Explorer) oder vom
+Desktop anklicken und in das Chat-Fenster ziehen. </p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64963479.png" alt="Drag" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="zusatzinformationen-eingeben"><a class="anchor" href="#zusatzinformationen-eingeben"></a>Zusatzinformationen eingeben</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64963490.png" alt="Info" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="fertig"><a class="anchor" href="#fertig"></a>Fertig</h4>
+<div class="paragraph">
+<p>Deine Kollegen können nun das Bild direkt im Kanal sehen.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64963494.png" alt="Ready" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="formatieren-von-nachrichten"><a class="anchor" href="#formatieren-von-nachrichten"></a>Formatieren von Nachrichten</h3>
+<div class="sect3">
+<h4 id="fett-kursiv-durchgestrichen"><a class="anchor" href="#fett-kursiv-durchgestrichen"></a>Fett/Kursiv/Durchgestrichen</h4>
+<div class="paragraph">
+<p>Vermittele deinen Standpunkt und drücke dich aus, indem Du Deine Nachrichten formatierst:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>fett</strong> mit <code>*Sternchen*</code>,</p>
+</li>
+<li>
+<p><em>kursiv</em> mit <code>_Unterstrichen_</code></p>
+</li>
+<li>
+<p><span class="line-through">streichen</span> mit <code>~Tilden~</code></p>
+</li>
+</ul>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/64964779.png" alt="64964779">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="listen"><a class="anchor" href="#listen"></a>Listen</h4>
+<div class="paragraph">
+<p>Um eine Liste zu erstellen musst du zunächst SHIFT drücken und ENTER um
+neue Zeilen einzufügen. Gib für jede Zeile ein „-“, eine Zahl oder was
+auch immer ein und erstelle so deine individuell gestaltete Liste.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/64964782.png" alt="64964782">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="zitate-einzug"><a class="anchor" href="#zitate-einzug"></a>Zitate/Einzug</h4>
+<div class="paragraph">
+<p>Um Zitate zu kennzeichnen oder Text einzurücken, füge einfach ein “&gt;”
+vor deiner Nachricht ein.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/64964781.png" alt="64964781">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="code-blöcke"><a class="anchor" href="#code-blöcke"></a>Code-Blöcke</h4>
+<div class="paragraph">
+<p>Du kannst rückwärts geneigte Hochkommata ( ` - entspricht dem "accent
+grave" im Französischen) verwenden, um Code zu markieren. Dadurch wird
+Ihre Nachricht umgeben von einer grauen Box.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964780.png" alt="Code" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Ein rückwärts geneigte Hochkomma auf jeder Seite des Textes wird ein
+Inline-Kommentar erzeugen.<br></p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc">`Programmcode`</code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>Drei rückwärts geneigte Hochkommtaa auf jeder Seite wird einen
+mehrzeiligen Block erzeugen.<br></p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc">``` #include &lt;stdio.h&gt;
+... ```</code></pre>
+</div>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect3">
+<h4 id="links"><a class="anchor" href="#links"></a>Links</h4>
+<div class="paragraph">
+<p>Wenn du URLs direkt in eine Nachricht schreibst, dann werden sie
+automatisch als Link angezeigt. Manchmal möchtest du einem Text eine
+Webseite oder E-Mailadresse hinterlegen. Schreib dazu einfach so etwas:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc">[Seht Euch diese Webseite an](http://assistify.de/[http://assistify.de])</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="finden-und-betreten-von-kanälen"><a class="anchor" href="#finden-und-betreten-von-kanälen"></a>Finden und Betreten von Kanälen</h3>
+<div class="sect3">
+<h4 id="kanäle-finden"><a class="anchor" href="#kanäle-finden"></a>Kanäle finden</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64965284.png" alt="Find" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Kanälen, denen du beigetreten bist, werden in der linken Seitenleiste
+angezeigt. Um alle Kanäle deiner Community zu sehen, klicke auf "Mehr
+Kanäle&#8230;&#8203;" und wähle den von dir gesuchten Kanal aus. Alternativ kannst
+du auch nach einem bestimmten Kanal suchen. Gib hierzu einfach in die
+Suche oben links den Kanalnamen ein.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="kanälen-beitreten"><a class="anchor" href="#kanälen-beitreten"></a>Kanälen beitreten</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64965283.png" alt="Join" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Klicke auf den Kanal, den du suchst, und lass ihn dir so anzeigen.
+Klicke dann auf "Beitreten" am unteren Ende der Anzeige, um in den Kanal
+einzutreten.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="kanäle-anfragen-themen-und-direktnachrichten"><a class="anchor" href="#kanäle-anfragen-themen-und-direktnachrichten"></a>Kanäle, Anfragen, Themen und Direktnachrichten</h3>
+<div class="sect3">
+<h4 id="gruppen-chat-in-kanälen"><a class="anchor" href="#gruppen-chat-in-kanälen"></a>Gruppen-Chat in Kanälen</h4>
+<div class="paragraph">
+<p>Typischerweise unterhält man sich in einem Gruppen-Chat in
+unterschiedlichen Kanälen. Kanäle sind meist themenorientiert angelegt.
+Z.B. könnte es einen Kanal "Marketing" oder "Datenschutz" geben. In
+einem solchen Kanal wird dann eben dieses konkrete Thema mit mehreren
+Kollegen diskutiert. Grundsätzlich gibt es offene und geschlossene
+Kanäle. Der Unterschied ist, dass in offenen Kanälen jeder Benutzer
+beitreten kann, während Benutzer zur Teilnahame an geschlossenen Kanälen
+explizit eingeladen werden müssen.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="gruppen-chat-in-öffentlichen-kanälen-public-channels"><a class="anchor" href="#gruppen-chat-in-öffentlichen-kanälen-public-channels"></a>Gruppen-Chat in öffentlichen Kanälen (Public Channels)</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64965196.png" alt="Public" width="150">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Dies sind Chat-Gruppen mit offenem Zugang. Du musst nicht eingeladen
+werden, um diesem Kanal beizutreten. Du kannst Kanälen beitreten, in dem
+du auf "Mehr Kanäle.." klickst und einen Kanal auswählst. </p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="gruppen-chat-in-privaten-kanälen-closed-channels"><a class="anchor" href="#gruppen-chat-in-privaten-kanälen-closed-channels"></a>Gruppen-Chat in privaten Kanälen (Closed Channels)</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64965197.png" alt="Closed" width="150">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Privaten Gruppen können mehrere Leute beitreten. Sie müssen dazu aber
+von anderen eingeladen werden. Die Gruppen werden nur angezeigt, wenn Du
+Mitglied dieser Gruppe bist. </p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="themen"><a class="anchor" href="#themen"></a>Themen </h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64965380.png" alt="Topic" width="150">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Expertisen können je nach Thema angelegt werden und entsprechende
+Benutzer, die sich fachlich mit dem Thema gut auskennen, zugeordnet
+werden. In diesen Kanälen können sich Experten rund um die jeweilige
+Expertise austauschen.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="anfragen"><a class="anchor" href="#anfragen"></a>Anfragen </h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64965199.png" alt="Requests" width="150">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Anfragen sind spezielle Kanäle, die zum Zweck der Beantwortung einer
+Frage eröffnet werden können. In der linken Seitenleiste kannst Du über
+das "+"-Symbol neben der Suchleiste eine neue Anfrage öffnen. Fragen
+werden direkt an Kollegen, die sich mit dem Thema auskennen,
+weitergeleitet. Bei der Beantwortung der Fragen hilft zudem die
+künstliche Intelligenz von Assistify.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="private-nachrichten-private-chat"><a class="anchor" href="#private-nachrichten-private-chat"></a>Private Nachrichten (Private Chat)</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64965198.png" alt="Private" width="150">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Private Nachrichten sind private Konversationen zwischen dir und einem
+anderen Benutzer. Du kannst jedem Benutzer eine Privatnachricht
+schreiben, die nur von euch beiden einzusehen ist.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="kanäle-erstellen"><a class="anchor" href="#kanäle-erstellen"></a>Kanäle erstellen</h3>
+<div class="paragraph">
+<p>Ein Kanal ist ein Chatraum, in dem man sich zu einem Thema austauschen
+kann. Man kann einen Kanal in zwei einfachen Schritten erstellen.</p>
+</div>
+<div class="sect3">
+<h4 id="Über-plus-in-der-linken-seitenleiste-in-das-kanal-erstellen-menü-wechseln"><a class="anchor" href="#Über-plus-in-der-linken-seitenleiste-in-das-kanal-erstellen-menü-wechseln"></a>Über Plus in der linken Seitenleiste in das "Kanal Erstellen" Menü wechseln</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/68245215.png" alt="68245215">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="einen-neuen-kanal-erstellen"><a class="anchor" href="#einen-neuen-kanal-erstellen"></a>Einen neuen Kanal erstellen</h4>
+<div class="paragraph">
+<p>In dem Menü kann man anschließend einen Kanalnamen vergeben und
+entscheiden ob der Kanal öffentlich oder privat sein soll. Zudem ist es
+möglich den Kanal als "read only" zu markieren. Dies bedeutet, dass
+andere Nutzer nur lesenden Zugriff auf den Kanal haben, selber aber
+nichts schreiben dürfen. Abschließend kann man bereits einige Benutzer
+in den Kanal einladen. Hierfür muss man in das Feld "Benutzer auswählen"
+die Benutzernamen eingeben. Eine Autovervollständigung unterstützt bei
+diesem Schritt. </p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/68245217.png" alt="68245217">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="private-nachrichten"><a class="anchor" href="#private-nachrichten"></a>Private Nachrichten</h3>
+<div class="paragraph">
+<p>Private Nachrichten sind Konversationen zwischen zwei Benutzern. Sie
+sind der schnellste Weg, um die Aufmerksamkeit anderer Teammitglieder zu
+bekommen. Wenn du also schnell mit jemandem chatten möchtest, ohne dass
+deine Konversationen in einem größeren Raum verloren geht, dann springe
+einfach in eine private Nachricht.</p>
+</div>
+<div class="sect3">
+<h4 id="Öffnen-existierender-direktnachrichten"><a class="anchor" href="#Öffnen-existierender-direktnachrichten"></a>Öffnen existierender Direktnachrichten</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964833.png" alt="Open" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Deine offenen privaten Nachrichten werden links in der Seitenleiste
+aufgelistet. Wenn du eine davon ausblenden willst, navigiere deine Maus
+über den Namen und klicke auf das Augensymbol.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="verfassen-einer-neuen-privaten-nachricht"><a class="anchor" href="#verfassen-einer-neuen-privaten-nachricht"></a>Verfassen einer neuen privaten Nachricht</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964834.png" alt="Compose" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Keine Sorge, durch das Ausblenden einer Konversation wird diese nicht
+gelöscht. Wenn du erst auf das Profil des Benutzers klickst, siehst du
+einen Button „Konversation“, um zur Privatnachricht zu springen.
+Gleichzeitig wird so die Konversation wieder zur linken Seitenleiste
+hinzugefügt.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="schreiben-von-privaten-nachrichten"><a class="anchor" href="#schreiben-von-privaten-nachrichten"></a>Schreiben von privaten Nachrichten</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964832.png" alt="Write" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Bist du erst einmal in einer Konversation einer Privatnachricht, wirst
+du feststellen, dass das Interface genauso aussieht wie an anderen
+Stellen in der Anwendung. Du kannst zum Schreiben einer Nachricht das
+Textfeld am unteren Rand des Fensters benutzen.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="verlassen-und-ausblenden-eines-kanals"><a class="anchor" href="#verlassen-und-ausblenden-eines-kanals"></a>Verlassen und Ausblenden eines Kanals</h3>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock left">
+<div class="content">
+<img src="_images/64964855.png" alt="Leave" width="200">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>In allen Kanälen und privaten Gruppen, die in der linken Seitenleiste
+angezeigt werden, siehst du zwei Icons, wenn du deinen Mauszeiger
+darüber navigierst: Ein durchgestrichenes Auge und einen Pfeil.</p>
+</div>
+<div class="sect3">
+<h4 id="ausblenden-eines-kanals"><a class="anchor" href="#ausblenden-eines-kanals"></a>Ausblenden eines Kanals</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock left">
+<div class="content">
+<img src="_images/64964856.png" alt="Hide" width="150">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Wenn du Mitglied eines Raums oder einer privaten Gruppe bleiben willst
+aber du diese nicht in der linken Seitenleiste angezeigt sehen willst,
+dann klicke auf das durchgestrichene Auge.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="verlassen-eines-kanals"><a class="anchor" href="#verlassen-eines-kanals"></a>Verlassen eines Kanals</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock left">
+<div class="content">
+<img src="_images/64964854.png" alt="Leave" width="150">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Wenn du einen Raum oder eine private Gruppe verlassen willst, kannst du
+diese verlassen. Dazu klicke einfach auf das Symbol mit dem Pfeil. Du
+musst das Verlassen dann bestätigen. Um wieder in den Raum aufgenommen
+zu werden, benötigst du eine Einladung (in privaten Gruppen) oder musst
+den Raum neu betreten (in öffentlichen Räumen).</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="off-the-record-gespräche"><a class="anchor" href="#off-the-record-gespräche"></a>Off-the-record Gespräche</h3>
+<div class="sect3">
+<h4 id="so-flüstern-sie"><a class="anchor" href="#so-flüstern-sie"></a>So flüstern Sie &#8230;&#8203;</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>Du kannst deine Direktnachrichten absichern, indem Du Off-the-record
+(OTR) aktivierst. Wenn Du in einem Privatchat bist, dann wähle das
+Schlüssel-Symbol in der rechten Navigationsleiste.</p>
+</div>
+<div class="imageblock left">
+<div class="content">
+<img src="_images/68231846.png" alt="Secure" width="860">
+</div>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+Wenn Du dich in einem OTR-Chat befindest, dann haben die Nachrichten ein
+Schlüsselsymbol und werden verschlüsselt versendet. Nachdem die OTR
+Konversation beendet wurde, werden die verschlüsselten Nachrichten
+automatisch gelöscht (Manchmal muss dazu die Seite aktualisiert werden).
+</td>
+</tr>
+</table>
+</div>
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+Der Empfänger einer OTR-Anfrage muss bestätigen, dass er an der
+verschlüsselten Konversation teilnehmen muss.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="bekannte-probleme-mit-dem-internet-explorer"><a class="anchor" href="#bekannte-probleme-mit-dem-internet-explorer"></a>Bekannte Probleme mit dem Internet-Explorer</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>Die OTR-Konversation funktioniert derzeit nicht im Internet Explorer.</p>
+</div>
+<div class="imageblock left">
+<div class="content">
+<img src="_images/68231847.png" alt="ORT" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="benachrichtigungen"><a class="anchor" href="#benachrichtigungen"></a>Benachrichtigungen</h3>
+<div class="paragraph">
+<p>Du kannst Benachrichtigungen von Assistify von der Desktop-, Webapp oder
+mobilen App erhalten.</p>
+</div>
+<div class="sect3">
+<h4 id="desktop-benachrichtigungen"><a class="anchor" href="#desktop-benachrichtigungen"></a>Desktop-Benachrichtigungen</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964895.png" alt="Desktop" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Unter „Mein Account“ kannst du testen, ob die Desktop-Benachrichtigungen
+auf deinem Computer funktionieren. Wenn sie aktiviert sind, tauchen sie
+– abhängig von den Einstellungen deines Computers – oben rechts auf
+deinem Desktop auf.</p>
+</div>
+<div class="paragraph">
+<p>Du kannst zudem einstellen, wie lange Benachrichtigungen auf deinem
+Desktop angezeigt werden sollen. Andernfalls verschwinden diese nach ein
+paar Sekunden.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="benachrichtigungstöne"><a class="anchor" href="#benachrichtigungstöne"></a>Benachrichtigungstöne</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964907.png" alt="Sound1" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964915.png" alt="Sound2" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Du kannst wählen, welchen Ton du bei einer neuen Benachrichtigung von
+Assistify hören willst. Schaue unter unter „Audio“ nach im
+Benachrichtungs-Panel jedes Raums oder jedes privaten Chats. Diesen
+erreichen Sie mit dem Glockensymbol in der rechten Seitenleiste.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="alarm-warnhinweis-bei-ungelesenen-nachrichten"><a class="anchor" href="#alarm-warnhinweis-bei-ungelesenen-nachrichten"></a>Alarm/Warnhinweis bei ungelesenen Nachrichten</h4>
+<div class="paragraph">
+<p>Alarme/Warnhinweise sind Nachrichten, die auf der oberen Seite des Chats
+angezeigt werden, und dich informieren, dass du einige Nachrichten noch
+nicht gelesen hast.</p>
+</div>
+<div class="paragraph">
+<p>Diese Hinweise lassen dich&#8230;&#8203;</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>wissen, wie viele Nachrichten du verpasst hast seit du zuletzt im Chat warst</p>
+</li>
+<li>
+<p>die Nachrichten ignorieren, indem du auf „als gelesen markieren“ klickst</p>
+</li>
+<li>
+<p>zur letzten ungelesenen Nachricht springen. Die App wird dazu zur letzten gelesenen Nachricht springen.</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect3">
+<h4 id="benachrichtigungen-für-einzelne-kanäle-und-benutzer"><a class="anchor" href="#benachrichtigungen-für-einzelne-kanäle-und-benutzer"></a>Benachrichtigungen für einzelne Kanäle und Benutzer</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64964934.png" alt="Notify-channel" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Benachrichtigungs-Einstellungen können für einzelne Räume, Gruppen oder
+Benutzer gesetzt werden. Sie können also wählen, wann Sie
+Benachrichtigungen erhalten – von welcher Art von Nachricht und von wem.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="anfragen-stellen-und-hilfe-beantworten"><a class="anchor" href="#anfragen-stellen-und-hilfe-beantworten"></a>Anfragen stellen und Hilfe beantworten</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="eine-neue-anfrage-erstellen"><a class="anchor" href="#eine-neue-anfrage-erstellen"></a>Eine neue Anfrage erstellen</h3>
+<div class="paragraph">
+<p>Mit Assistify ist es einfach eine Frage an deine Kollegen zu stellen.
+Melde dich dafür an und erstelle mit drei Klicks eine Frage, die direkt
+an deine Kollegen weitergeleitet wird.</p>
+</div>
+<div class="sect3">
+<h4 id="wähle-das-plus-in-der-seitenleiste"><a class="anchor" href="#wähle-das-plus-in-der-seitenleiste"></a>Wähle das Plus "+" in der Seitenleiste </h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/64963099.png" alt="64963099">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="wähle-die-passende-kategorie-aus"><a class="anchor" href="#wähle-die-passende-kategorie-aus"></a>Wähle die passende Kategorie aus</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/64963061.png" alt="64963061">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="verfasse-deine-frage"><a class="anchor" href="#verfasse-deine-frage"></a>Verfasse deine Frage</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64957278.png" alt="Compose" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Deine Frage wird nun an deine Kollegen weitergeleitet. Bei einer Antwort
+wirst du direkt über den Browser oder via E-Mail benachrichtigt.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="trainiere-die-ki"><a class="anchor" href="#trainiere-die-ki"></a>Trainiere die KI</h4>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/64963102.png" alt="Train" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Wenn deine Anfrage beantwortet wurde, beende bitte den Chat,
+damit die künstliche Intelligenz lernen kann!</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="eine-anfrage-beantworten"><a class="anchor" href="#eine-anfrage-beantworten"></a>Eine Anfrage beantworten</h3>
+<div class="paragraph">
+<p>Bist du als Experte für ein Thema definiert, kann es sein, dass du hin
+und wieder Anfragen bekommst. Diese zu beantworten ist ganz einfach.</p>
+</div>
+<div class="sect3">
+<h4 id="eingang-neuer-anfragen"><a class="anchor" href="#eingang-neuer-anfragen"></a>Eingang neuer Anfragen</h4>
+<div class="paragraph">
+<p>Über die gängigen <a href="#">Benachrichtigungen</a> siehst du,
+dass eine neue Nachricht eingegangen ist. Öffnest du Assistify, erkennst
+du, zu welchem Thema die Nachricht an dich gerichtet wurde. In der
+linken Spalte unter Anfragen ist die neue Anfrage sichtbar und fett
+markiert.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock left">
+<div class="content">
+<img src="_images/69766654.png" alt="Request" width="200">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="beantwortung-von-anfragen"><a class="anchor" href="#beantwortung-von-anfragen"></a>Beantwortung von Anfragen</h4>
+<div class="paragraph">
+<p>Klickst du auf diese Anfrage, siehst du den Text der Anfrage und kannst
+direkt antworten. Dies funktioniert analog zum Beantworten von allen
+Nachrichten in Assistify. Tippe dazu einfach deine Antwort ein und sende
+diese an deinen Kollegen.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/69766661.png" alt="Answer" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="verwendung-der-wissensbasis"><a class="anchor" href="#verwendung-der-wissensbasis"></a>Verwendung der Wissensbasis</h3>
+<div class="paragraph">
+<p>In Anfragen werden die eingegebenen Nachrichten analysiert und daraufhin
+Wissensquellen durchsucht. So werden ab der ersten Nachricht in einer
+Anfrage auf der rechten Seite Vorschläge angezeigt, die womöglich
+relevante Informationen enthalten. </p>
+</div>
+<div class="paragraph">
+<p>Jedes Mitglied des Kanals (Fragesteller und Experte) kann die Vorschläge einsehen. Erkennt ein
+Nutzer, dass ein Vorschlag relevant ist, so kann der Vorschlag im Chat
+gepostet werden. </p>
+</div>
+<div class="sect3">
+<h4 id="arbeiten-mit-antworten-aus-vergangenen-konversationen"><a class="anchor" href="#arbeiten-mit-antworten-aus-vergangenen-konversationen"></a>Arbeiten mit Antworten aus vergangenen Konversationen</h4>
+<div class="paragraph">
+<p>Hier werden Verweise auf vergangene Konversationen angezeigt, die ggf.
+relevant sind für die Frage "Hi, kann mir jemand sagen wie ich einen
+Kanal erstellen kann?"</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/69770293.jpg" alt="Conversations1" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Dazu lassen sich die Nachrichten gefundener Konversationen zunächst
+anzeigen: </p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/69770486.png" alt="Conversations2" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Im Anschluss können entweder einzelne Nachrichten oder die gesamte
+Konversation im Chat gepostet werden. Dies geschieht über den Button mit
+dem Papierflieger: </p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/69770485.png" alt="Conversations3" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Ist die ursprüngliche Frage beantwortet worden, sollte die Konversation beendet werden
+(siehe <a href="assistify-help-request.html">Anfragen stellen und Hilfe beantworten</a>):</p>
+</div>
+<div class="paragraph">
+<p>Wenn deine Anfrage beantwortet wurde, beende bitte den Chat, damit die
+künstliche Intelligenz lernen kann!</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="arbeiten-mit-ergebnissen-aus-dritten-systemen"><a class="anchor" href="#arbeiten-mit-ergebnissen-aus-dritten-systemen"></a>Arbeiten mit Ergebnissen aus dritten Systemen</h4>
+<div class="paragraph">
+<p>Scrollt man auf der rechten Bildansicht weiter nach unten, so werden
+Verweise auf Suchergebnisse der Search angezeigt, falls
+Suchergebnisse vorhanden sind.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/69770294.jpg" alt="Search" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="live-chat"><a class="anchor" href="#live-chat"></a>Live-Chat</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="aktionen-in-einem-offenen-livechat"><a class="anchor" href="#aktionen-in-einem-offenen-livechat"></a>Aktionen in einem offenen Livechat</h3>
+<div class="paragraph">
+<p>Hat ein Livechat Agent einen Chat angenommen, kann er neben der
+Kommunikation mit dem Kunden weitere Aktionen durchführen:</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/68240623.png" alt="LiveChat" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="kundendaten-bearbeiten"><a class="anchor" href="#kundendaten-bearbeiten"></a>Kundendaten bearbeiten</h4>
+<div class="paragraph">
+<p>Über einen Klick auf <em>Bearbeiten </em>kann man die Kundendaten bearbeiten und Metainfos zum Gesprächs hinterlegen (Thema und Tags). </p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="konversation-schließen"><a class="anchor" href="#konversation-schließen"></a>Konversation schließen</h4>
+<div class="paragraph">
+<p>Durch einen Klick auf <em>Schließen</em> beendet man die aktuelle Konversation mit dem Kunden.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="weiterleiten-und-zurückgeben-return"><a class="anchor" href="#weiterleiten-und-zurückgeben-return"></a>Weiterleiten und Zurückgeben (Return)</h4>
+<div class="paragraph">
+<p>Über die Aktion <em>Weiterleiten</em> kann ein Agent die aktuelle Konversation
+an einen anderen Agenten übergeben. Dies ist sinnvoll, wenn sich ein
+Kollege besser mit einem Thema auskennt oder der aktuell tätige Agent in
+die Pause geht.</p>
+</div>
+<div class="paragraph">
+<p><em>Zurückgeben bzw. Return</em> gibt dagegen die Anfrage an den allgemeinen
+Anfragepool zurück. Hier erhält nicht ein Kollege die Nachricht, sondern
+ein anderer Kollege muss sich aktiv die Konversation wieder nehmen.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="live-chat-anfragen-beantworten"><a class="anchor" href="#live-chat-anfragen-beantworten"></a>Live Chat Anfragen beantworten</h3>
+<div class="paragraph">
+<p>Assistify ermöglicht es Live Chat Anfragen von Kunden zu erhalten.
+Anfragen können bspw. über ein Website-Plugin eingehen.</p>
+</div>
+<div class="sect3">
+<h4 id="voraussetzung-für-das-empfangen-von-live-chat-anfragen"><a class="anchor" href="#voraussetzung-für-das-empfangen-von-live-chat-anfragen"></a>Voraussetzung für das Empfangen von Live Chat Anfragen</h4>
+<div class="paragraph">
+<p>Um Live Chat Anfragen zu erhalten, muss ein Benutzer die Rolle livechat-agent erhalten.
+Anschließend kann der Nutzer sich als Agent anmelden.
+Dies geschieht, in dem der Nutzer in der linken Spalte den Schalter unter Live Chat aktiviert.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/68240521.png" alt="68240521">
+</div>
+</div>
+</div>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/68240527.png" alt="68240527">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="eine-anfrage-geht-ein-und-ein-agent-nimmt-diese-an"><a class="anchor" href="#eine-anfrage-geht-ein-und-ein-agent-nimmt-diese-an"></a>Eine Anfrage geht ein und ein Agent nimmt diese an</h4>
+<div class="paragraph">
+<p>Wenn eine neue Anfrage von einem Kunden eingeht, erscheint diese unter Eingehende Livechats.
+Der Agent kann diese nun auswählen und wird gefragt, ob er sie annehmen möchte.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/68240544.png" alt="68240544">
+</div>
+</div>
+</div>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/68240570.png" alt="68240570">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Die angenommene Anfrage erscheint in der linken Spalte unter Offene Livechats.
+Nun ist es möglich wie in jedem anderen Kanal auch Nachrichten auszutauschen.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock">
+<div class="content">
+<img src="_images/68240573.png" alt="68240573">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="anfrage-abschließen"><a class="anchor" href="#anfrage-abschließen"></a>Anfrage abschließen</h4>
+<div class="paragraph">
+<p>Ist das Anliegen des Kunden abgeschlossen, sollte der Chat geschlossen werden.
+Hierfür muss in der rechten Seitenleiste einfach auf Chat beenden geklickt werden.
+Im Folgenden Dialog kann optional noch ein Kommentar angegeben werden, bspw. für eine Kategorisierung der Anfrage.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/68240588.png" alt="Close" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/68240593.png" alt="Close" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="metainformationen-und-bisherige-kundenanfragen-im-live-chat"><a class="anchor" href="#metainformationen-und-bisherige-kundenanfragen-im-live-chat"></a>Metainformationen und bisherige Kundenanfragen im Live-Chat</h3>
+<div class="paragraph">
+<p>Der Assistify Livechat liefern einige nützliche Informationen zu einem Kunden. </p>
+</div>
+<div class="sect3">
+<h4 id="metainformationen"><a class="anchor" href="#metainformationen"></a>Metainformationen</h4>
+<div class="paragraph">
+<p>In der rechten Spalte unter Info kann man erkennen, wie der Kunde heißt, wie
+seine E-Mail Adresse ist, mit welchem Browserer unterwegs ist und welche Seiten
+er auf der Webseite, auf der sich der Livechat befindet, er besucht hat. </p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/68240614.png" alt="Metadata" width="860">
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Darüber hinaus kann man hier weitere Aktionen tätigen.
+Informationen zu diesen Aktionen sind im Artikel
+<a href="assistify-live-chats-actions.html">Aktionen in einem offenen Livechat</a>
+zu finden.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="bisherige-kundenanfragen"><a class="anchor" href="#bisherige-kundenanfragen"></a>Bisherige Kundenanfragen</h4>
+<div class="paragraph">
+<p>Unter dem Sprechblasensymbol findet man bisherige, abgeschlossene
+Gespräche mit dem Kunden. Mit einem Klick auf ein Gespräch kann man den
+Verlauf einsehen.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="imageblock text-center">
+<div class="content">
+<img src="_images/68240615.png" alt="History" width="860">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="nutzung-mit-apps"><a class="anchor" href="#nutzung-mit-apps"></a>Nutzung mit Apps</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="download"><a class="anchor" href="#download"></a>Download</h3>
+<div class="paragraph">
+<p>Assistify steht für mobile Endgeräte sowohl als Webanwendung über die
+<a href="https://${TEAM-NAME}.assistify-test.de/">URL</a> zur Verfügung,
+aber auch als Desktop-Anwendung für Windows, Mac und Linux. Du kannst
+Assistify auch über eine Android- oder iOS-App auf mobilen Geräten
+verwenden. Assistify basiert auf Rocketchat - deshalb musst du dir
+lediglich die jeweilige Rocketchat-Anwendung herunterladen und dich mit
+deinem Benutzernamen und Passwort anmelden.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Die Android App kannst Du hier herunterladen:
+<a href="https://play.google.com/store/apps/details?id=com.konecty.rocket.chat">Rocket.Chat
+für Android</a></p>
+</li>
+<li>
+<p>Die iOS App kannst Du hier herunterladen:
+<a href="https://itunes.apple.com/us/app/rocket-chat/id1028869439?mt=8">Rocket.Chat
+für iOS</a></p>
+</li>
+<li>
+<p>Downloads für Windows, Mac und Linux findest Du
+hier: <a href="https://rocket.chat/download" class="bare">https://rocket.chat/download</a></p>
+</li>
+</ul>
+</div>
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+Die Download-Links für mobile Geräte auf dieser Seite
+verweisen auf eine andere Version als benötigt. Bitte verwendet deshalb
+für mobile Geräte die oben angegebenen Links.
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sect2">
+<h3 id="anmeldung"><a class="anchor" href="#anmeldung"></a>Anmeldung</h3>
+<div class="paragraph">
+<p>Ob in der Webanwendung oder bei der Nutzung einer App: Befolge folgende
+Schritte, um Assistify zu verwenden.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Gib die Subdomäne deines Assistify-Zugangs an, diese lautet: +</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc">https://${TEAM-NAME}.assistify-test.de/</code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>Gib deinen Benutzernamen und dein Kennwort ein</p>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+Benutzername und Kennwort sind dieselben wie in der Web-Version von Assistify
+</td>
+</tr>
+</table>
+</div>
+</li>
+<li>
+<p>Verwende Assistify wie sonst auch!</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect2">
+<h3 id="bekannte-probleme"><a class="anchor" href="#bekannte-probleme"></a>Bekannte Probleme</h3>
+<div class="admonitionblock caution">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-caution" title="Caution"></i>
+</td>
+<td class="content">
+Momentan kann es zu Problemen mit den mobilen Apps kommen.
+In Einzelfällen wird das Chatfenster nicht geladen. Man sieht nur die Ladeanimation (Drei Punkte). In diesem Fall muss man die App neu installieren.
+</td>
+</tr>
+</table>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+Als Workaround empfehlen wir zurzeit auf einen mobilen Browser (bspw. Chrome, Safari) auszuweichen oder auf die Nutzung von Apps vorübergehend zu verzichten.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2017-09-17 13:12:06 CEST
+</div>
+</div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script>hljs.initHighlighting()</script>
+</body>
+</html>

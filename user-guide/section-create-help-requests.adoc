@@ -1,0 +1,35 @@
+=== Eine neue Anfrage erstellen
+
+Mit Assistify ist es einfach eine Frage an deine Kollegen zu stellen.
+Melde dich dafür an und erstelle mit drei Klicks eine Frage, die direkt
+an deine Kollegen weitergeleitet wird.
+
+
+==== Wähle das Plus "+" in der Seitenleiste 
+
+====
+image::64963099.png[]
+====
+
+==== Wähle die passende Kategorie aus
+====
+image::64963061.png[]
+====
+
+
+==== Verfasse deine Frage
+====
+image::64957278.png[Compose,860,role="text-center"]
+====
+
+Deine Frage wird nun an deine Kollegen weitergeleitet. Bei einer Antwort
+wirst du direkt über den Browser oder via E-Mail benachrichtigt.
+
+
+==== Trainiere die KI
+====
+image::64963102.png[Train,860,role="text-center"]
+====
+
+Wenn deine Anfrage beantwortet wurde, beende bitte den Chat,
+damit die künstliche Intelligenz lernen kann!

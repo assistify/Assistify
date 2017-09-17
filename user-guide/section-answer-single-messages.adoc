@@ -1,0 +1,13 @@
+=== Auf einzelne Nachrichten antworten
+
+Auf Nachrichten in Kanälen oder privaten Konversationen kannst du direkt
+antworten. Klicke dazu über einer Nachricht auf das "Zahnrad"-Symbol und
+wähle dann den Pfeil ganz links in der Auswahlleiste.
+
+====
+image::64964968.png[Context,860,role="text-center"]
+====
+
+====
+image::64964967.png[Reply,860,role="text-center"]
+====

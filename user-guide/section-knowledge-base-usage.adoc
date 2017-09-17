@@ -1,0 +1,53 @@
+=== Verwendung der Wissensbasis
+
+In Anfragen werden die eingegebenen Nachrichten analysiert und daraufhin
+Wissensquellen durchsucht. So werden ab der ersten Nachricht in einer
+Anfrage auf der rechten Seite Vorschläge angezeigt, die womöglich
+relevante Informationen enthalten. 
+
+Jedes Mitglied des Kanals (Fragesteller und Experte) kann die Vorschläge einsehen. Erkennt ein
+Nutzer, dass ein Vorschlag relevant ist, so kann der Vorschlag im Chat
+gepostet werden. 
+
+
+==== Arbeiten mit Antworten aus vergangenen Konversationen
+
+Hier werden Verweise auf vergangene Konversationen angezeigt, die ggf.
+relevant sind für die Frage "Hi, kann mir jemand sagen wie ich einen
+Kanal erstellen kann?"
+
+====
+image::69770293.jpg[Conversations1,860,role="text-center"]
+====
+
+Dazu lassen sich die Nachrichten gefundener Konversationen zunächst
+anzeigen: 
+
+====
+image::69770486.png[Conversations2,860,role="text-center"]
+====
+
+Im Anschluss können entweder einzelne Nachrichten oder die gesamte
+Konversation im Chat gepostet werden. Dies geschieht über den Button mit
+dem Papierflieger: 
+
+====
+image::69770485.png[Conversations3,860,role="text-center"]
+====
+
+Ist die ursprüngliche Frage beantwortet worden, sollte die Konversation beendet werden
+(siehe <<assistify-help-request.adoc#, Anfragen stellen und Hilfe beantworten>>):
+
+Wenn deine Anfrage beantwortet wurde, beende bitte den Chat, damit die
+künstliche Intelligenz lernen kann!
+
+
+==== Arbeiten mit Ergebnissen aus dritten Systemen
+
+Scrollt man auf der rechten Bildansicht weiter nach unten, so werden
+Verweise auf Suchergebnisse der Search angezeigt, falls
+Suchergebnisse vorhanden sind.
+
+====
+image::69770294.jpg[Search,860,role="text-center"]
+====

@@ -1,7 +1,27 @@
 = Assistify User Guide
 Assistify <info@assistify.de>
-v1.0, 2017-08-26
+:description: Dieser guide beschreibt, wie Assistify zu benutzen ist. Von den ersten Schritten über das Stellen von Anfragen an Experten und deren Beantwortung.
+:keywords: Assitify, user guide, communication, chat, live chat, service desk, assistance, artificial intelligence, natural language processing, bot, automation
+:doctype: book
+:page-layout: docs
+:page-description: {description}
+:page-keywords: {keywords}
+ifndef::env-site[]
 :toc: left
+:icons: font
+:idprefix:
+:idseparator: -
+:sectanchors:
+:source-highlighter: highlightjs
+endif::[]
+:experimental:
+:mdash: &#8212;
+:language: asciidoc
+:source-language: {language}
+:table-caption!:
+:example-caption!:
+:figure-caption!:
+:imagesdir: _images
 
 [abstract]
 Assistify is a software as a service to empower people for effective communication.
@@ -19,14 +39,14 @@ IMPORTANT: @all if you find typos, missing sections or if you have any other kin
 Share your thoughts and open an issue right https://github.com/redlink-gmbh/smarti/issues[here].
 The *Assistify* community will help you along, as fast as possible.
 
-include::user-guide/assistify-first-steps.adoc[Erste Schritte]
+include::user-guide/01-chapter-first-steps.adoc[Erste Schritte]
 
-include::user-guide/assistify-messages-channels.adoc[Nachrichten und Kanäle]
+include::user-guide/02-chapter-messages-channels.adoc[Nachrichten und Kanäle]
 
-include::user-guide/assistify-notifications.adoc[Benachrichtigungen]
+include::user-guide/03-chapter-notifications.adoc[Benachrichtigungen]
 
-include::user-guide/assistify-help-requests.adoc[Anfragen stellen und Hilfe beantworten]
+include::user-guide/04-chapter-help-requests.adoc[Anfragen stellen und Hilfe beantworten]
 
-include::user-guide/assistify-live-chat.adoc[Live-Chat]
+include::user-guide/05-chapter-live-chat.adoc[Live-Chat]
 
-include::user-guide/assistify-using-apps.adoc[Nutzung von Apps]
+include::user-guide/06-chapter-using-apps.adoc[Nutzung von Apps]

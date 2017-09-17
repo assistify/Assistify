@@ -1,0 +1,56 @@
+=== Benachrichtigungen
+
+Du kannst Benachrichtigungen von Assistify von der Desktop-, Webapp oder
+mobilen App erhalten.
+
+
+==== Desktop-Benachrichtigungen
+====
+image::64964895.png[Desktop,860,role="text-center"]
+====
+
+Unter „Mein Account“ kannst du testen, ob die Desktop-Benachrichtigungen
+auf deinem Computer funktionieren. Wenn sie aktiviert sind, tauchen sie
+– abhängig von den Einstellungen deines Computers – oben rechts auf
+deinem Desktop auf.
+
+Du kannst zudem einstellen, wie lange Benachrichtigungen auf deinem
+Desktop angezeigt werden sollen. Andernfalls verschwinden diese nach ein
+paar Sekunden.
+
+
+==== Benachrichtigungstöne
+====
+image::64964907.png[Sound1,860,role="text-center"]
+====
+====
+image::64964915.png[Sound2,860,role="text-center"]
+====
+
+Du kannst wählen, welchen Ton du bei einer neuen Benachrichtigung von
+Assistify hören willst. Schaue unter unter „Audio“ nach im
+Benachrichtungs-Panel jedes Raums oder jedes privaten Chats. Diesen
+erreichen Sie mit dem Glockensymbol in der rechten Seitenleiste.
+
+
+==== Alarm/Warnhinweis bei ungelesenen Nachrichten
+
+Alarme/Warnhinweise sind Nachrichten, die auf der oberen Seite des Chats
+angezeigt werden, und dich informieren, dass du einige Nachrichten noch
+nicht gelesen hast.
+
+Diese Hinweise lassen dich...
+
+.  wissen, wie viele Nachrichten du verpasst hast seit du zuletzt im Chat warst
+.  die Nachrichten ignorieren, indem du auf „als gelesen markieren“ klickst
+.  zur letzten ungelesenen Nachricht springen. Die App wird dazu zur letzten gelesenen Nachricht springen.
+
+
+==== Benachrichtigungen für einzelne Kanäle und Benutzer
+====
+image::64964934.png[Notify-channel,860,role="text-center"]
+====
+
+Benachrichtigungs-Einstellungen können für einzelne Räume, Gruppen oder
+Benutzer gesetzt werden. Sie können also wählen, wann Sie
+Benachrichtigungen erhalten – von welcher Art von Nachricht und von wem.

@@ -1,0 +1,28 @@
+=== Eine Anfrage beantworten
+
+Bist du als Experte für ein Thema definiert, kann es sein, dass du hin
+und wieder Anfragen bekommst. Diese zu beantworten ist ganz einfach.
+
+==== Eingang neuer Anfragen
+
+Über die gängigen <<user-guide.adoc#, Benachrichtigungen>> siehst du,
+dass eine neue Nachricht eingegangen ist. Öffnest du Assistify, erkennst
+du, zu welchem Thema die Nachricht an dich gerichtet wurde. In der
+linken Spalte unter Anfragen ist die neue Anfrage sichtbar und fett
+markiert.
+
+====
+image::69766654.png[Request,200,role="left"]
+====
+
+
+==== Beantwortung von Anfragen
+
+Klickst du auf diese Anfrage, siehst du den Text der Anfrage und kannst
+direkt antworten. Dies funktioniert analog zum Beantworten von allen
+Nachrichten in Assistify. Tippe dazu einfach deine Antwort ein und sende
+diese an deinen Kollegen.
+
+====
+image::69766661.png[Answer,860,role="text-center"]
+====

@@ -1,0 +1,19 @@
+== Nachrichten und Kanäle
+
+include::section-answer-single-messages.adoc[Auf einzelne Nachrichten antworten]
+
+include::section-share-images.adoc[Ein Bild teilen]
+
+include::section-message-formatting.adoc[Formatieren von Nachrichten]
+
+include::section-find-and-join-channels.adoc[Finden und Betreten von Kanälen]
+
+include::section-channel-types.adoc[Kanäle, Anfragen, Themen und Direktnachrichten]
+
+include::section-create-channels.adoc[Kanäle erstellen]
+
+include::section-private-messages.adoc[Private Nachrichten]
+
+include::section-leave-channels.adoc[Verlassen und Ausblenden eines Kanals]
+
+include::section-off-the-record-messages.adoc[Off-the-record Gespräche]

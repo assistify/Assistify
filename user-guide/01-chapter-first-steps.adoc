@@ -1,0 +1,13 @@
+== Erste Schritte
+
+include::section-self-registration.adoc[Registriere Deinen Benutzer]
+
+include::section-signin-signup.adoc[Melde Dich an Assistify an]
+
+include::section-overview-ui.adoc[Verschaffe Dir einen Überblick]
+
+include::section-change-state.adoc[Lasse andere wissen, ob Du verfügbar bist]
+
+include::section-change-user-name-or-password.adoc[Ändere Deinen Benutzernamen oder Dein Passwort]
+
+include::section-reset-password.adoc[Du hast Dein Passwort vergessen? Kann passieren ...]

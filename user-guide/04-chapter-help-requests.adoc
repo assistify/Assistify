@@ -1,0 +1,7 @@
+== Anfragen stellen und Hilfe beantworten
+
+include::section-create-help-requests.adoc[Eine neue Anfrage erstellen]
+
+include::section-answer-help-requests.adoc[Eine Anfrage beantworten]
+
+include::section-knowledge-base-usage.adoc[Verwendung der Wissensbasis]

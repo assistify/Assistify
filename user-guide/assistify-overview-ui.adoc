@@ -1,7 +1,0 @@
-=== Verschaffe Dir einen Überblick
-
-Anbei findest Du eine Übersicht der Benutzeroberfläche von Assistify.
-
-====
-image:images/64963413/64963409.png[]
-====
