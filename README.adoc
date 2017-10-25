@@ -17,3 +17,28 @@ You might want to check the components' documentation until we got things right.
 
 Until then, feel free to link:https://github.com/assistify/assistify.github.io/issues/new[create an issue] to get in touch with us
 ====
+
+== Purpose
+__ Make people collaborate in a faster, satisfying, human manner.__
+
+
+== Motivation
+The actual reason for having humans employed is the lack of appropriate machines. At least, that's what one could say looking at the mega-trend of automation and the current rise of artificial intelligence (or at least the expectations towards it).
+
+When analyzing why humans still seem to be quite popular, it's clear that two aspects will be unique to them for quite a long time: _creativity_ and _flexibility_.
+Even though machine learning has made an incredible progress during the past years, those are features which by nature are very tricky to learn - if possible at all.
+
+Thus, _Assistify aims at accelerating the human part of work_, freeing them from mechanical tasks so that they can play to their _unique powers_.
+
+== Consequence
+During the day-to-day business, humans have to fulfill tasks which only occupy the less interesting part of their brains: Talk or write to other people, document agreements, take notes of things learned, look up information written down by themselves or others in order to perform a particular duty.
+Often, they need to operate systems which need structured input which requires a transformation of their knowledge.
+
+And this is where Assistify comes into the picture: It provides a human protocol (written natural language) for interaction with other people - and most probably in future with machines as well. Into this conversation, AI (precisely NLP) is integrated in order to speed up the communication.
+
+For what AI can deliver today is making sense of things that are already tangible: Texts, pictures, documented interactions. Text analysis, semantic search and also intent analysis are already available as matured components with a plethora of implementations.
+
+== Our verdict
+- We believe in humans. We want to help them focus on what makes them unique and thus foster communication super-powered by AI-based implicit search and intent analysis.
+- All components shall be on-premise-ready on order to allow deploying them in corporate boundaries.
+- We value (some may say "worship") open source. All components we consume or create shall be published in a corporate-friendly license.
